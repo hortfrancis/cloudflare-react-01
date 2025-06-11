@@ -31,7 +31,9 @@ function App() {
           />
         </a>
       </div>
-      <h1>Vite + React + Hono + Cloudflare</h1>
+      <h1>My first Cloudflare deployment 🙂</h1>
+      <p><a href='https://github.com/hortfrancis/cloudflare-react-01' target='_blank'>github.com/hortfrancis/cloudflare-react-01</a></p>
+      <h2>Vite + React + Hono + Cloudflare</h2>
       <div className="card">
         <button
           onClick={() => setCount((count) => count + 1)}
